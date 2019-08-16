@@ -1,0 +1,17 @@
+.profile-image {
+  border-radius: 100px;
+  border:5px solid #FFF;
+}
+
+.location{
+ position: relative;
+}
+
+@media all and (min-width: 768px){
+ .location{
+  position: absolute;
+  right: 0;
+  top: 2px;
+  color: #8a8a8a;
+ }
+}
