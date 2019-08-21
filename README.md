@@ -2,9 +2,9 @@
   A Django based personal portfolio website.
 
 # Requirements (that shall be installed in your system)
-  1.Git
-  2.virtualenv
-  3.Python
+  1. Git
+  2. virtualenv
+  3. Python
 
 # Run On Your Machine?
   Firstly, clone the repository using the git shell 
@@ -20,7 +20,7 @@
   $ python manage.py runserver 
 
 # Live Example
-  Portfolio
+   [Portfolio](http://msgc320.pythonanywhere.com/)
 
 
 # © 2019 GitHub, Inc.
